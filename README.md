@@ -51,4 +51,11 @@ A web app that aggregates all two-wheeler information in one place, offering bro
 - **Frontend:** React.js / Next.js  
 - **Backend:** Node.js / Express  
 - **Database:** MongoDB / PostgreSQL  
-- **Hosting / Deployment:** Vercel / Heroku  
+- **Hosting / Deployment:** Vercel 
+
+##** Team Coordination**
+-**Kasheesh:**Frontend
+-**Saideepika:**Backend
+-**Nishwitha:**Database
+-**Komali:**Deployment
+-**
