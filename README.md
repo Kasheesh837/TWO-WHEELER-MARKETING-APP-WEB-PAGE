@@ -53,9 +53,9 @@ A web app that aggregates all two-wheeler information in one place, offering bro
 - **Database:** MongoDB / PostgreSQL  
 - **Hosting / Deployment:** Vercel 
 
-##** Team Coordination**
--**Kasheesh:**Frontend
--**Saideepika:**Backend
--**Nishwitha:**Database
--**Komali:**Deployment
--**
+## **Team Coordination**
+- **Kasheesh:** Frontend
+- **Saideepika:** Backend
+- **Nishwitha:** Database
+- **Komali:** Deployment
+
